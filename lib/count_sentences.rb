@@ -18,3 +18,5 @@ class String
     elements = self.split(/[.!?]/)
   end
 end
+
+count_sentences
